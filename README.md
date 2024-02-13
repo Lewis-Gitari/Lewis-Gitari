@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine & Deep Learning**
 
-- 💬 Ask me about **Python,SQL**
+- 💬 Ask me about **Python,SQL,ML**
 
 - 📫 How to reach me **lewisgitarimbogo@gmail.com**
 
